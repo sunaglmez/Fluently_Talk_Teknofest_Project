@@ -18,3 +18,6 @@ Metronom modu seçildiğinde; birey, uygulama arayüzü üzerinden yapacağı d�
 ![Screenshot_2](https://github.com/sunaglmez/Fluently_Talk_Teknofest_Project/assets/109751575/0088239a-e8fb-4cdb-827e-37a87e5d16f0)
 
 ## Mobil Uygulama
+Cihazımızın DAF ve Metronom zamanlı konuşma olmak üzere iki farklı uygulamayı tek bir cihazla kullanma imkanı sağlaması, gelişmiş bir mobil uygulama aracılığıyla kolaylıkla kontrol edilebilmesi, kullanım ayarlarının kişiye özgü düzenlenebilmesi, bluetooth bağlantısı ile kablosuz erişim sağlar.
+
+![Screenshot_3](https://github.com/sunaglmez/Fluently_Talk_Teknofest_Project/assets/109751575/7ee34b86-1338-4dc6-8bd7-af0a3cad9e6f)
